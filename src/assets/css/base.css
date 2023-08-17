@@ -1,0 +1,9 @@
+*{margin: 0px; padding: 0px;}
+li{list-style: none;}
+a{text-decoration: none; color: black;}
+img{vertical-align: bottom;}
+[v-cloak]{display: none;}
+.main{
+	width:1000px;
+	margin:120px auto 0px;
+}
